@@ -1,1 +1,1 @@
-<h1>Hello, I'm Aung Kaung Zarn </h1>
+<h1 style='text-align: center;'>Hello, I'm Aung Kaung Zarn </h1>
